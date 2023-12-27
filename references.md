@@ -1,3 +1,2 @@
-# References
+# My GitHub Teacher
 
-* octocat 1 😈
